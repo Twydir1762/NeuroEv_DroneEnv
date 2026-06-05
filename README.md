@@ -1,5 +1,8 @@
 # Управление автономным дроном с помощью Q-Learning
 Работа по исследованию и сравнению трех типов табличных RL-агентов (`RationalAgent`, `ProspectTheoryAgent`, `RiskSensitiveAgent`) в стохастической среде. Для отслеживания хода экспериментов и сохранения артефактов (графиков и отчетов) используется MLflow.
+<div align="center">
+  <img width="854" height="480" alt="DroneEnv" src="https://github.com/user-attachments/assets/d2a3e0fe-0bee-4990-8a28-7a17fe02dd37" />
+</div>
 
 ## 🚀Инструкция по запуску
 ### 1. Клонирование репозитория
